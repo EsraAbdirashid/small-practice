@@ -1,0 +1,24 @@
+.story{
+        text-align: center ;
+        border: 4px solid white;
+        background-color: blueviolet;
+        color: white;
+        width: 400px;
+        height: 400px;
+        transform: translateX(400px);
+        border-radius: 15px;
+        box-shadow: black 5px 5px 5px 5px;
+        font-family: serif;
+        
+} 
+.story:h1{
+        font-size: x-large;
+        font-weight: 300;
+}
+
+.span{
+        
+        background-color: white;
+        color: indigo;
+        
+}
